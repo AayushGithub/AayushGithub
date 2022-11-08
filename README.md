@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Gandhi</h1>
 <h3 align="center">I am a senior at Johns Hopkins University majoring in Chemical and Biomolecular Engineering with a minor in Computer Science. I am proficient in Python, Java and React JS/React Native frameworks. I am extremely passionate about the fields of Biomolecular sciences and Software Engineering, and always hope to find an amalgam between the two.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushgithub&label=Profile%20views&color=0e75b6&style=flat" alt="aayushgithub" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aayushgithub&label=Profile%20views&color=0e75b6&style=flat" alt="aayushgithub" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://aayushgandhi.netlify.app](https://aayushgandhi.netlify.app)
 
