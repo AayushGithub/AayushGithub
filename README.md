@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aayushgithub&label=Profile%20views&color=0e75b6&style=flat" alt="aayushgithub" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://aayushgandhi.netlify.app](https://aayushgandhi.netlify.app)
+- 👨‍💻 All of my projects are available at **[My Portfolio Website](https://aayushgandhi.com)**
 
 - 📫 How to reach me **agandhi6@jh.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q96XHD-XEuH6SyyXHmc1jKfvU-J9GafT/view?usp=share_link](https://drive.google.com/file/d/1q96XHD-XEuH6SyyXHmc1jKfvU-J9GafT/view?usp=share_link)
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1REdeqmcPtP6w7ald9PB4LLCp1ktJa_CN/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
