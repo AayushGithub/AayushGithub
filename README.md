@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aayush Gandhi</h1>
 <h3 align="center">I am an MSE Candidate at Johns Hopkins University majoring in Computer Science. I am proficient in Python, Java and more than 5 JavaScript Frameworks. I am extremely passionate about the fields of Biomolecular sciences and Software Engineering, and always hope to find an amalgam between the two.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aayushgithub&label=Profile%20views&color=0e75b6&style=flat" alt="aayushgithub" /> </p>
+<a href="https://github.com/AayushGithub"><img src="https://komarev.com/ghpvc/?username=aayushgithub&label=Profile%20views&color=0e75b6&style=flat" alt="aayushgithub" /></a>
+<a href="https://www.threads.net/@aayushgandhi01"><img src="https://thread-count.vercel.app/thread-count/aayushgandhi01" alt="Aayush Gandhi Threads Badge"></a>
 
 - 👨‍💻 All of my projects are available at **[My Portfolio Website](https://aayushgandhi.com)**
 
