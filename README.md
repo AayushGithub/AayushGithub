@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush Gandhi</h1>
+<div align="center">
+<img src="https://github.com/AayushGithub/AayushGithub/assets/66742440/4a965fd3-f924-4b8e-81b8-42ebd66724b6"
+     alt="Aayush Gandhi" style="width: 300px;"/>
+</div>
+     
 <h3 align="center">I am a Lead Software Engineer at CraniUS LLC., a medical technology company working on target therapeutics for the brain. Additionally, I am a recent graduate from The Johns Hopkins University majoring in Chemical and Biomolecular Engineering with a minor in Computer Science.  I am proficient in Python, Java and React JS/React Native frameworks. I am extremely passionate about the fields of Biomolecular sciences and Software Engineering, and always hope to find an amalgam between the two.</h3>
 <p align="center">
 <a href="https://github.com/AayushGithub"><img src="https://komarev.com/ghpvc/?username=aayushgithub&label=Profile%20views&color=0e75b6&style=flat" alt="aayushgithub" /></a>
