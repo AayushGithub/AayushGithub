@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aayush Gandhi</h1>
-<h3 align="center">I am an MSE Candidate at Johns Hopkins University majoring in Computer Science. I am proficient in Python, Java and more than 5 JavaScript Frameworks. I am extremely passionate about the fields of Biomolecular sciences and Software Engineering, and always hope to find an amalgam between the two.</h3>
+<h3 align="center">I am a Lead Software Engineer at CraniUS LLC., a medical technology company working on target therapeutics for the brain. Additionally, I am a recent graduate from The Johns Hopkins University majoring in Chemical and Biomolecular Engineering with a minor in Computer Science.  I am proficient in Python, Java and React JS/React Native frameworks. I am extremely passionate about the fields of Biomolecular sciences and Software Engineering, and always hope to find an amalgam between the two.</h3>
 <p align="center">
 <a href="https://github.com/AayushGithub"><img src="https://komarev.com/ghpvc/?username=aayushgithub&label=Profile%20views&color=0e75b6&style=flat" alt="aayushgithub" /></a>
 </p>
 
 - 👨‍💻 All of my projects are available at **[My Portfolio Website](https://aayushgandhi.com)**
 
-- 📫 How to reach me **agandhi6@jh.edu**
+- 📫 How to reach me **[aayushgandhi2001\@gmail.com](mailto:aayushgandhi2001@gmail.com?subject=Hey!)**
 
-- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1hmSuVDBnn3cMMLmv2NkG1S9OH3gbDYia/view?usp=sharing)**
+- 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1NdlDy7cT3kQ5EAlIUjLolmVJWGkaqs0F/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
